@@ -11,7 +11,7 @@ void main(){
     //example of a list data type which can store a range of items
   List fruits = ['apple','banana', 'orange',];
   print(fruits[1]);
-    //example of the map data type which store key values
+    //example of the map data type which store key/value pairs
   Map studentDetails = {'Name':'Jay Banda','Email':'jaybanda21091@gmail.com','Course':'Dart with Flutter'};
   print(studentDetails);
 }
